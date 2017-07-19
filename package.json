@@ -1,0 +1,20 @@
+{
+  "name": "number-pad-polyfill",
+  "version": "1.0.0",
+  "description": "Javascript \"Number\" extension to add \"0\" before numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Number",
+    "Polyfill",
+    "pad"
+  ],
+  "author": "Andre Antunes Vieira",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
