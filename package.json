@@ -1,6 +1,6 @@
 {
   "name": "number-pad-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript \"Number\" extension to add \"0\" before numbers",
   "main": "index.js",
   "scripts": {
